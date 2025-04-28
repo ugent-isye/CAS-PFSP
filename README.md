@@ -1,6 +1,6 @@
 # Towards net-zero manufacturing: carbon-aware scheduling for GHG emissions reduction
 
-This project contains the instance files for the paper titled "Towards net-zero manufacturing: carbon-aware scheduling for GHG emissions reduction" by Andrea Mencaroni, Pieter Leyman, Birger Raa, Stijn De Vuyst, and Dieter Claeys, see: [insert link]
+This project contains the instance files for the paper titled "Towards net-zero manufacturing: carbon-aware scheduling for GHG emissions reduction" by Andrea Mencaroni, Pieter Leyman, Birger Raa, Stijn De Vuyst, and Dieter Claeys, see: [https://arxiv.org/abs/2503.01325]
 
 ## Citation
 
