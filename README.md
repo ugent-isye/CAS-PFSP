@@ -26,7 +26,8 @@ Power reqs of job 2 on machine 2 per timeslot
 ....  
 Power reqs of job N on machine M per timeslot  
 Available on-site generation per timeslot  
-Grid carbon intensity per timeslot  
+Grid carbon intensity per timeslot
+Day-ahead electricity price per timeslot
 
 ## Contributing
 
