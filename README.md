@@ -2,6 +2,19 @@
 
 This project contains the instance files for the paper titled "Towards net-zero manufacturing: carbon-aware scheduling for GHG emissions reduction" by Andrea Mencaroni, Pieter Leyman, Birger Raa, Stijn De Vuyst, and Dieter Claeys, see: [https://doi.org/10.1016/j.jclepro.2025.146787]
 
+## Executable release
+
+
+A standalone executable version of the **MA-CAS-PFSP** algorithm (no installation required) is available in the  
+[**Releases section**](../../releases/latest)
+
+**Included:**
+- `MA-CAS-PFSP_run.exe` – self-contained executable  
+- Example `.bat` file to run a sample instance  
+- Config files and instance datasets  
+
+See the release notes for full instructions on how to run the executable.
+
 ## Citation
 
 When using the instance files contained in this repo, please cite the following work:
