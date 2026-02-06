@@ -54,5 +54,5 @@ Day-ahead electricity price per timeslot
 If you have proposed extensions to this codebase, feel free to do a pull request! If you experience issues, feel free to send us an email.
 
 ## License
-* [MIT license](https://opensource.org/license/mit/)
-* Copyright 2025 © [Andrea Mencaroni](https://ea18.ugent.be/people/24/andrea-mencaroni/), [Pieter Leyman](https://ea18.ugent.be/people/63/pieter-leyman/), [Birger Raa](https://ea18.ugent.be/people/61/birger-raa/), [Stijn De Vuyst](https://ea18.ugent.be/people/57/stijn-de-vuyst/), [Dieter Claeys](https://ea18.ugent.be/people/54/dieter-claeys/)
+* [GPL-3.0 license](https://www.gnu.org/licenses/gpl-3.0.html#license-text)
+* Copyright 2025 © [Andrea Mencaroni](https://ea18.ugent.be/people/24/andrea-mencaroni/)
